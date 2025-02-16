@@ -64,6 +64,7 @@ currently still being built
 
 ![2025-02-16-191617_hyprshot](https://github.com/user-attachments/assets/246e5a38-b21f-4623-82f9-b181d19fc9e8)
 
+![2025-02-16-202629_hyprshot](https://github.com/user-attachments/assets/a5b6b4b6-1c35-4081-8302-724f967e1a26)
 
 
 
