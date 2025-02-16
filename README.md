@@ -60,10 +60,14 @@ currently still being built
 
 </div>
 
-![2025-02-16-221057_hyprshot](https://github.com/user-attachments/assets/c316381f-180e-43f7-80fa-10d2455123f0)
-![2025-02-16-221113_hyprshot](https://github.com/user-attachments/assets/29840324-b83f-4300-90b7-7609507bc807)
-![2025-02-16-191617_hyprshot](https://github.com/user-attachments/assets/e1c1fbe7-00f0-4a82-8583-ed9ce43acf05)
-![2025-02-16-203251_hyprshot](https://github.com/user-attachments/assets/616953c7-9d8b-46ae-9594-d2d47ae1250f)
+![2025-02-16-223820_hyprshot](https://github.com/user-attachments/assets/1ed3abed-49d2-499c-b6f1-91e852484f37)
+![2025-02-16-223826_hyprshot](https://github.com/user-attachments/assets/f5cef511-d2e8-4ac8-a3a6-eb1baebec246)
+![2025-02-16-203251_hyprshot](https://github.com/user-attachments/assets/cd2930fe-63d5-4e28-b4f6-0adb8553e374)
+![2025-02-16-223947_hyprshot](https://github.com/user-attachments/assets/ed573614-beb2-41ec-89d0-15476f87b5c6)
+
+
+
+
 
 
 
