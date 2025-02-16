@@ -17,7 +17,7 @@
 
 <div align="center">
 
-[![Version](https://img.shields.io/github/v/release/claudemods/ApexArchIsoCreatorScriptAppImage?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/ApexArchIsoCreatorScriptAppImage/releases/tag/v1.0-Build-14-02-2025)
+[![Version](https://img.shields.io/github/v/release/claudemods/ApexArchIsoCreatorGuiAppImage?color=FFD700&label=Latest%20Release&style=for-the-badge)](
 
 
 </div>
@@ -59,7 +59,9 @@ currently still being built
 <div align="center">
 
 </div>
-![2025-02-16-190810_hyprshot](https://github.com/user-attachments/assets/f9ded0f7-be53-4bad-8ecc-d9e08e28c89a)
+
+![2025-02-16-190810_hyprshot](https://github.com/user-attachments/assets/40e0ee5a-1c59-4707-a2eb-294b82c8fdef)
+
 
 
 
