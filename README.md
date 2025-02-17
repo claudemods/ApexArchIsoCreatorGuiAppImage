@@ -41,7 +41,7 @@ Clone Your Arch System At Ease
 <div align="center">
 currently still being built
 	<div align="center">
-i only have setup scripts to merge and changew from old project
+i only have setup scripts to merge and change from my other script project
 		<div align="center">
 also need to plush squashfs tab
 			<div align="center">
