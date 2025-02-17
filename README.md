@@ -40,6 +40,9 @@ Sailing the 7 seas like Penguin's Eggs Remastersys, Refracta, Systemback and fat
 Clone Your Arch System At Ease
 <div align="center">
 currently still being built
+i only have setup scripts to merge and changew from old project
+also need to plush squashfs tab
+should be done soon im working on it !!!
 
 
 
