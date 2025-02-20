@@ -34,7 +34,7 @@
 [![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&label=claudemods&color=A836FF&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/claudemods)</div>
 
 <div align="center">
-Apex Arch ISO Creator Gui AppImage v1.0 Beta Written in Cpp,
+Apex Arch ISO Creator Gui AppImage v1.0 Beta Build 20-02-2025 Written in Cpp,
 	<div align="center">
 Sailing the 7 seas like Penguin's Eggs Remastersys, Refracta, Systemback and father Knoppix!
 <div align="center">
@@ -55,7 +55,8 @@ build date wrong in app and boot
 ui broken on kde for setup scripts you must open and close for it to show correct "no problem on hyprland"
 		<div align="center">
 squashfs spinner updates say every 5 minutes i also need to plush squashfs tab
-
+<div align="center">
+no other issues 
 
 
 
