@@ -34,7 +34,7 @@
 [![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&label=claudemods&color=A836FF&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/claudemods)</div>
 
 <div align="center">
-Apex Arch ISO Creator AppImage v1.0 Beta Written in Cpp,
+Apex Arch ISO Creator Gui AppImage v1.0 Beta Written in Cpp,
 	<div align="center">
 Sailing the 7 seas like Penguin's Eggs Remastersys, Refracta, Systemback and father Knoppix!
 <div align="center">
@@ -44,9 +44,17 @@ currently still being built
 	<div align="center">
 i only have setup scripts to merge and change from my other script project
 		<div align="center">
-also need to plush squashfs tab
-			<div align="center">
-should be done soon im working on it !!!
+
+			
+
+
+known issues
+<div align="center">
+build date wrong in app and boot
+	<div align="center">
+ui broken on kde for setup scripts you must open and close for it to show correct "no problem on hyprland"
+		<div align="center">
+squashfs spinner updates say every 5 minutes i also need to plush squashfs tab
 
 
 
