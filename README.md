@@ -40,8 +40,6 @@ Sailing the 7 seas like Penguin's Eggs Remastersys, Refracta, Systemback and fat
 <div align="center">
 Clone Your Arch System At Ease
 <div align="center">
-currently still being built
-		<div align="center">
 changelog v1.0 Build 20-02-2025
 			<div align="center">
 All Scripts Merged from Apex Iso Creator Script And Converted To Work With C++23 Qt6
