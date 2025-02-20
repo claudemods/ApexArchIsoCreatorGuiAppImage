@@ -56,8 +56,6 @@ Download From Aur with name apexisocreatorgui or use link https://aur.archlinux.
 
 <div align="center">
 known issues
-<div align="center">
-build date wrong in app and boot
 	<div align="center">
 ui broken on kde for setup scripts you must open and close for it to show correct "no problem on hyprland"
 		<div align="center">
