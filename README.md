@@ -41,8 +41,6 @@ Sailing the 7 seas like Penguin's Eggs Remastersys, Refracta, Systemback and fat
 Clone Your Arch System At Ease
 <div align="center">
 currently still being built
-	<div align="center">
-i only have setup scripts to merge and change from my other script project
 		<div align="center">
 changelog v1.0 Build 20-02-2025
 			<div align="center">
