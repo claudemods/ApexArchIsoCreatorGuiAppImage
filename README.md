@@ -1,12 +1,13 @@
 <p align="center">
-    <img width="750" src="https://i.postimg.cc/3Rg8r2FC/Apex-Arch-Iso-Creator-2-5-2025.png" alt="logo">
-</p>
-<p align="center">
 	 <img width="150" src="https://i.postimg.cc/c4VPgzBp/Apex-Browser.png" alt="logo">
 	<img width="150" src="https://i.postimg.cc/cHj9PDT7/burn.png" alt="logo">
 	</p>
 <div align="center">
+<p align="center">
+    <img width="750" src="https://i.postimg.cc/3Rg8r2FC/Apex-Arch-Iso-Creator-2-5-2025.png" alt="logo">
+</p>
 
+<div align="center">
   <a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logo=linux" /></a>
 	<a href="https://archlinux.org" target="_blank"><img src="https://img.shields.io/badge/DISTRO-Arch-56b6c2?style=for-the-badge&logo=arch-linux" /></a>
   </a>
