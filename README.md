@@ -62,7 +62,8 @@ should be done soon im working on it !!!
 
 ![2025-02-20-082300_hyprshot](https://github.com/user-attachments/assets/7410cd05-fc15-4078-8cce-dff152d7f489)
 ![2025-02-16-223826_hyprshot](https://github.com/user-attachments/assets/f5cef511-d2e8-4ac8-a3a6-eb1baebec246)
-![squashfs](https://github.com/user-attachments/assets/37d0caf6-550f-4443-a9d7-a8497c2a551a)
+![squashfs2](https://github.com/user-attachments/assets/2636c682-07ee-4959-a9e3-6d1864b8e830)
+
 
 ![2025-02-17-003647_hyprshot](https://github.com/user-attachments/assets/b411cc14-cbda-48cc-af44-8c786c557e1a)
 ![2025-02-16-223947_hyprshot](https://github.com/user-attachments/assets/811014e9-d8a4-48ef-8ffa-285486dac717)
