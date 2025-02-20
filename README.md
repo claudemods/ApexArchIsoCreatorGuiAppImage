@@ -44,10 +44,12 @@ currently still being built
 	<div align="center">
 i only have setup scripts to merge and change from my other script project
 		<div align="center">
+changelog v1.0 Build 20-02-2025
+			<div align="center">
+most scripts merged from Apex Iso Creator Script And Converted To Work With C++23 Qt6	
+	
 
-			
-
-
+<div align="center">
 known issues
 <div align="center">
 build date wrong in app and boot
