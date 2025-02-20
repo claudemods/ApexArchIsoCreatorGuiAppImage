@@ -72,6 +72,7 @@ no other issues
 <div align="center">
 
 </div>
+
 ![2025-02-20-132954_hyprshot](https://github.com/user-attachments/assets/07785f51-c4ce-43f7-88ff-191618d4f479)
 
 ![2025-02-20-083241_hyprshot](https://github.com/user-attachments/assets/5b9095d1-35aa-46f6-ab6d-f91caa70d276)
