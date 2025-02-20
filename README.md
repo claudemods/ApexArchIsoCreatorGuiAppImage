@@ -46,7 +46,10 @@ i only have setup scripts to merge and change from my other script project
 		<div align="center">
 changelog v1.0 Build 20-02-2025
 			<div align="center">
-All Scripts Merged from Apex Iso Creator Script And Converted To Work With C++23 Qt6	
+All Scripts Merged from Apex Iso Creator Script And Converted To Work With C++23 Qt6
+				<div align="center">
+Download From Aur with name apexisocreatorgui or use link https://aur.archlinux.org/packages/apexisocreatorgui
+			
 	
 
 <div align="center">
