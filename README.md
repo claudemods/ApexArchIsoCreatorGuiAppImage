@@ -65,7 +65,10 @@ should be done soon im working on it !!!
 ![squashfs2](https://github.com/user-attachments/assets/2636c682-07ee-4959-a9e3-6d1864b8e830)
 
 
+
 ![2025-02-17-003647_hyprshot](https://github.com/user-attachments/assets/b411cc14-cbda-48cc-af44-8c786c557e1a)
+![boot](https://github.com/user-attachments/assets/e773547a-5c24-47bc-b60a-ad220c259160)
+
 ![2025-02-16-223947_hyprshot](https://github.com/user-attachments/assets/811014e9-d8a4-48ef-8ffa-285486dac717)
 ![2025-02-16-203251_hyprshot](https://github.com/user-attachments/assets/b4f16f4b-f490-44b6-b090-557ab998e02b)
 
